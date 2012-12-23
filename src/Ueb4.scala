@@ -15,5 +15,5 @@ object Ueb4 extends App {
   else if (eingabe1 == "nein" | eingabe1 == "no")
     println("es wurde nein eingegeben")
 
-  else println("es wurde etwas Falsches eingegeben")
+  else println("es wurde etwas Falsches eingegeben!")
 }
