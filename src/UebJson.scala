@@ -1,4 +1,5 @@
 import com.google.gson.Gson
+// comment
 
 object UebJson extends App {
 	val gs = new Gson

@@ -25,5 +25,5 @@ object Bierspiel extends App {
     }
   }
   println(handleWareneingang(0, 0, 0))
-  println("bla")
+  println("blabbb")
 }
