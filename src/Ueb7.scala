@@ -6,7 +6,7 @@ object Ueb7 extends App {
     spielzustand + eingabe
   }
 
-  def ausgabeAnzeigen(spielzustand: Int) {
+  def auseAnzeigen(spielzustand: Int) {
     println("Zustand " + spielzustand)
   }
 
